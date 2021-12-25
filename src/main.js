@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-console.log('aaa')
+console.log('master')
 
 Vue.config.productionTip = false
 
